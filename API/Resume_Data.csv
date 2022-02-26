@@ -1,0 +1,775 @@
+Name,Context,Cleaned,Selective,Selective_Reduced,TF_Based
+ALANKRIT NIRJHAR.docx,"ALANKRIT NIRJHARPremium CV Featured Resume  
+
+ 
+
+Senior Analyst (1 Year) | B.tech (Mathematics & Computing) | Machine Learning | NLP | Deep Learning | Computer Vision | Statistical Analysis|SQL| EXCEL
+
+
+
+ 
+
+ 
+
+Current Designation: Senior Analyst -- Machine Learning
+
+Current Company: Capgemini
+
+Current Location: WORKFROMHOME- Bilaspur
+
+Pref. Location: INDIA,Bengaluru / Bangalore,Delhi / NCR
+
+Functional Area: Analytics & Business Intelligence
+
+Role: Data Analyst
+
+Industry: KPO / Research /Analytics
+
+Marital Status: Single/unmarried
+
+Total Experience: 1 Year(s) 1 Month(s)
+
+Notice Period: 2 Months
+
+Highest Degree:
+
+ 
+
+Key Skills: Data Analysis,Machine Learning,Data Science,Data Visualization,SQL,Python,MS-Excel,Statistical Analysis,Deep Learning,Artificial Intelligence
+
+ 
+
+Verified :  Phone Number |  Email - id
+
+ 
+
+ID: ba56b4f594cd449891db291ae8e04206Last Active: Jul-Sep 2020Last Modified: Jul-Sep 2020
+
+ 
+
+Jump to SectionWork Experience | Education | IT Skills | Projects | Work Authorization
+
+ 
+
+ 
+
+Summary
+
+1 year+ Experience - ""STATISTICAL MODELING, DATA ANALYSIS & MACHINE LEARNING""
+
+
+
+Technical Tools - PYTHON, SQL & MS-EXCEL
+
+
+
+Actively looking to switch in a Data Analyst/Data Scientist Role (can join within 45-60 Days ) 
+
+
+
+ 
+
+Work Experience
+
+ Capgemini as Senior Analyst -- Machine Learning
+
+Aug 2019 to Till Date
+
+IT Ticket Summary Category & Sub-Category Prediction:
+
+
+
+
+
+Used keras preprocessing library and regex to remove stopwords, tokenize and filter out of context commonly occurring words.
+
+
+
+Obtained padded sequences for sentences after one-hot encoding of top 20,000 words in 10 Lakh Rows (text fields) of Data.
+
+
+
+Performed Transfer Learning of pre-trained Glove Embeddings using Embedding Layer in Keras with stacked LSTM layers.
+
+
+
+Trained the Model using Bi-Directional stacked LSTM layers with an accuracy of 92 percent on the test dataset of 15,000 records.
+
+
+
+
+
+
+
+
+
+
+
+MTTR (Mean Time to Resolution) Prediction Model:
+
+
+
+
+
+Automated cleaning & pre-processing of incoming data
+
+in real-time from a monitoring tool.
+
+
+
+Used Word2Vec in Embedding Layer to obtain sentence embeddings while training Sequential Artificial Neural Networks.
+
+
+
+Trained with a R2 Score of 0.8 using RIDGE Regression ML Model.
+
+
+
+
+
+
+
+
+
+
+
+Integrated Automated Models with the existing in Linux and Windows remote servers.
+
+ 
+
+^ Back to Top
+
+ 
+
+Education
+
+UG: B.Tech/B.E. (Mathematics and Computing) from Delhi College of Engineering (DCE), Delhi in 2019
+
+PG: in 0
+
+Other Qualifications/Certifications/Programs:
+
+Automation Foundation Machine & Deep Learning
+
+Automation Engineer Practitioner Certification
+
+ 
+
+ 
+
+^ Back to Top
+
+ 
+
+IT Skills
+
+Skill Name	Version	Last Used	Experience
+
+TensorFlow	2.0.0	2020	1 Year(s) 1 Month(s)
+
+SQL		2020	1 Year(s) 0 Month(s)
+
+MACHINE LEARNING		2020	1 Year(s) 1 Month(s)
+
+Natural Language Processing		2020	1 Year(s) 1 Month(s)
+
+Python	3.7	2020	1 Year(s) 1 Month(s)
+
+EXCEL	2016	2020	1 Year(s) 1 Month(s)
+
+^ Back to Top
+
+Languages Known
+
+Language	Proficiency	Read	Write	Speak
+
+English	Expert	
+
+ 
+
+ 
+
+ 
+
+Hindi	Expert	
+
+ 
+
+ 
+
+ 
+
+^ Back to Top
+
+ 
+
+Projects
+
+ 
+
+Project Title: Smoke&Fire Detection - Binary Image Classification
+
+Client: Self
+
+Nature of Employment: Full Time
+
+Duration: Aug 2020 - Sep 2020
+
+Onsite / Offsite: Onsite
+
+Team Size: 1
+
+ 
+
+Skill Used: Python, Machine Learning, Deep Learning, Image Processing
+
+Project Details: Binary Image Classification Model using CNN
+
+
+
+
+
+Detecting whether an image has Smoke& Fire (Unsafe) vs whether the image doesn't show Smoke&Fire(Safe)
+
+
+
+
+
+Developed Training (2000+) and Test (1000+) Datasets by acquiring from Kaggle Datasets and Google Images.
+
+
+
+Used Keras Imagedatagenerator framework to Augment Data after every epoch in terms of brightness, rotation, zoom etc.
+
+
+
+Developed CNN Model with L2 Regularisation followed by flattening and feeding the output of CNN Layers to Keras Dense Layers in a sequential manner.
+
+
+
+Trained the Initial Model to achieve Precision - 0.9 & Recall - 0.75",ALANKRIT nirjharpremium CV feature Resume Senior Analyst Year Btech Mathematics Computing Machine Learning NLP Deep Learning Computer Vision Statistical AnalysisSQL Current Designation Senior Analyst Machine Learning Current Company Capgemini Current Location WORKFROMHOME Bilaspur Pref Location INDIABengaluru BangaloreDelhi NCR Functional Area Analytics Business Intelligence Role Data Analyst Industry KPO Research Analytics Marital Status Singleunmarried Total Experience Years Months Notice Period Months Highest Degree Key Skills Data AnalysisMachine ScienceData visualizationsqlpythonmsexcelstatistical AnalysisDeep LearningArtificial Intelligence verify Phone Number Email i d ID ba56b4f594cd449891db291ae8e04206Last Active JulSep Modified JulSep Jump SectionWork Experience Education it Skills Projects Work Authorization Summary year experience statistical modeling datum ANALYSIS MACHINE LEARNING Technical Tools PYTHON SQL MSEXCEL actively look switch Data AnalystData Scientist Role join day Work Experience Capgemini Senior Analyst Machine Learning Aug date IT Ticket Summary Category SubCategory Prediction use kera preprocesse library regex remove stopword tokenize filter context commonly occur word obtain padded sequence sentence onehot encode top word Lakh Rows text field datum perform Transfer Learning pretraine Glove Embeddings use Embedding Layer Keras stack lstm layer Trained Model use BiDirectional stack lstm layer accuracy percent test dataset record MTTR Mean Time Resolution Prediction Model Automated cleaning preprocesse incoming datum realtime monitoring tool use Word2Vec embed Layer obtain sentence embedding train Sequential Artificial Neural Networks train r2 score use RIDGE Regression ML Model Integrated Automated Models exist Linux Windows remote server Top Education UG Mathematics Computing Delhi College Engineering DCE Delhi PG Other QualificationsCertificationsPrograms Automation Foundation Machine Deep Learning Automation Engineer Practitioner Certification Back Top it Skills Skill Name Version last used experience TensorFlow Years month SQL Years Months MACHINE LEARNING Years Months Natural Language Processing Years Months Python Years month EXCEL Years Months Back Top Languages Known Language Proficiency Read write Speak English Expert Hindi Expert Back Top Projects Project Title SmokeFire Detection Binary Image Classification Client Self Nature Employment full Time Duration Aug Sep Onsite Offsite Onsite Team Size Skill use Python Machine Learning Deep Learning Image Processing Project Details Binary Image Classification Model use CNN detect image smoke Fire unsafe image show SmokeFireSafe develop training test dataset acquire Kaggle Datasets Google Images use Keras imagedatagenerator framework Augment Data epoch term brightness rotation zoom develop CNN Model L2 Regularisation follow flatten feed output CNN Layers Keras Dense Layers sequential manner Trained Initial Model achieve Precision Recall,JulSep Name UG nirjharpremium write Trained Time Practitioner filter Intelligence padded Aug Rows Area Number Google Period experience Analyst embedding cleaning training Processing Kaggle Recall preprocesse Binary Speak English Detection MTTR Networks Models Version server used Company Business SQL Foundation Natural Resolution Top Designation Key year tokenize BiDirectional incoming tool PG Languages Certification Datasets Status Capgemini SubCategory Offsite image Analytics regex follow Mathematics AnalysisDeep d RIDGE Python Classification sequential lstm WORKFROMHOME Regularisation MACHINE EXCEL Dense dataset Language Known remove NLP Modified onehot Image Duration Functional AnalysisSQL Layers context look Embeddings feature PYTHON detect month AnalysisMachine Engineering Current Title MSEXCEL Glove Engineer Scientist Marital Automation Singleunmarried Tools NCR ANALYSIS i Windows Skill Details imagedatagenerator accuracy Machine r2 brightness manner kera test show Transfer Keras switch Industry CNN Role KPO modeling Model Years LearningArtificial Other Learning Layer Statistical CV Category embed Images Precision Months ba56b4f594cd449891db291ae8e04206Last pretraine Embedding Total commonly Vision Btech L2 TensorFlow exist Research Location Lakh stopword date datum text Neural percent record feed Jump epoch Word2Vec Onsite smoke monitoring Team rotation Proficiency occur statistical Mean perform SmokeFireSafe DCE zoom Phone Expert Size flatten unsafe field ML College Work join Summary actively train use output realtime Fire Senior Data library ScienceData it word Resume acquire Sep last Skills AnalystData Regression Nature Back Deep term Email SmokeFire Year visualizationsqlpythonmsexcelstatistical develop Computing Self Prediction achieve Automated Initial Artificial verify IT sentence Computer stack top score remote QualificationsCertificationsPrograms Authorization Education Employment Integrated encode Pref INDIABengaluru BangaloreDelhi Linux full ALANKRIT ID day layer Technical Highest Degree Bilaspur Sequential Client Experience LEARNING Project framework Read Ticket Notice Active obtain Augment Hindi sequence Projects SectionWork Delhi,JulSep Name UG nirjharpremium Trained Time Practitioner filter Intelligence Aug Rows Area Number Google Period experience Analyst cleaning training Processing Kaggle Recall preprocesse Binary Speak English Detection MTTR Networks Version server Company Business SQL Foundation Natural Resolution Top Designation year tool PG Certification Status Capgemini SubCategory Offsite image regex follow Mathematics AnalysisDeep d Python Classification lstm WORKFROMHOME Regularisation MACHINE dataset Language Known remove NLP Modified Image Duration Functional AnalysisSQL context feature month AnalysisMachine Engineering Current Title MSEXCEL Glove Engineer Scientist Marital Automation Singleunmarried NCR ANALYSIS Windows Skill Details imagedatagenerator accuracy Machine brightness manner kera test show Transfer Keras Industry CNN Role KPO Model Years LearningArtificial Other Learning Layer Statistical CV Category Images Precision pretraine Total Vision Btech L2 TensorFlow Research Location Lakh stopword date datum text percent record feed Jump epoch Word2Vec Onsite smoke Team rotation Proficiency perform DCE zoom Phone Expert Size field ML College Work Summary use output realtime Fire Senior Data library ScienceData word Resume Sep AnalystData Regression Nature term Email SmokeFire Year visualizationsqlpythonmsexcelstatistical Computing Self Prediction Automated Initial Artificial IT sentence Computer score QualificationsCertificationsPrograms Authorization Education Employment Integrated encode Pref INDIABengaluru BangaloreDelhi Linux ALANKRIT ID day layer Technical Highest Degree Bilaspur Sequential Client Experience LEARNING Project framework Ticket Notice Augment Hindi sequence SectionWork Delhi,accuracy achieve acquire active actively alankrit analysis analysisdeep analysismachine analysissql analyst analystdata analytics area artificial aug augment authorization automated automation ba56b4f594cd449891db291ae8e04206last back bangaloredelhi bidirectional bilaspur binary brightness btech business capgemini category certification classification cleaning client cnn college commonly company computer computing context current cv data dataset datasets date datum day dce deep degree delhi dense designation details detect detection develop duration education email embed embedding embeddings employment encode engineer engineering english epoch excel exist experience expert feature feed field filter fire flatten follow foundation framework full functional glove google highest hindi id image imagedatagenerator images incoming indiabengaluru industry initial integrated intelligence it join julsep jump kaggle kera keras key known kpo l2 lakh language languages last layer layers learning learningartificial library linux location look lstm machine manner marital mathematics mean ml model modeling models modified monitoring month months msexcel mttr name natural nature ncr networks neural nirjharpremium nlp notice number obtain occur offsite onehot onsite other output padded percent perform period pg phone practitioner precision prediction pref preprocesse pretraine processing proficiency project projects python qualificationscertificationsprograms r2 read realtime recall record regex regression regularisation remote remove research resolution resume ridge role rotation rows sciencedata scientist score sectionwork self senior sentence sep sequence sequential server show singleunmarried size skill skills smoke smokefire smokefiresafe speak sql stack statistical status stopword subcategory summary switch team technical tensorflow term test text ticket time title tokenize tool tools top total train trained training transfer ug unsafe use used verify version vision visualizationsqlpythonmsexcelstatistical windows word word2vec work workfromhome write year years zoom
+Amruta B.pdf,"Amruta B. ThoratFeatured Resume
+Jr. Web Developer seeking assignment in Software Development,Web Application Development,Project Management,Requirement Gathering,Unit Testing,Software Design,C,C++,Core Java,C#,Asp.Net,MVC,XML,Html,JavaScript,Eclipse,Microsoft Visual Studio.
+Current Designation: Junior Web Developer Current Company: Krisol Infosoft Current Location: Mumbai Pref. Location: Mumbai,Navi Mumbai Functional Area: IT Software - Application Programming / Maintenance Role: Software Developer Industry: IT-Software/Software Services Marital Status: Married Total Experience: 1 Year(s) 0 Month(s) Notice Period: 15 Days or less Highest Degree: MCA [Computers]
+Key Skills: jr. web developer,software developer,software development,web application development,project management,unit testing,c,c++,core java,c#,asp.net,mvc,xml,html,javascript,eclipse,microsoft visual studio
+Verified : Phone Number | Email - id
+ID: 3003ff1d762e4a1063Last Active: 11-Sep-20Last Modified: 11-Sep-20
+Jump to SectionWork Experience | Education | IT Skills |
+Summary
+
+Percuing MCA in 2nd year with 1 years experience in Software Development,Web Application Development,Project Management,Unit Testing,Software Design,C,C++,Core Java,C#,Asp.Net,MVC,XML,Html,JavaScript.
+Work Experience krisol infosoft as Junior Web Developer Jan 2019 to Jan 2020 The role is responsible for designing, coding and modifying websites, from layout to function and according to a client's specifications. Writing well designed, testable, efficient code by using best software development.Handling Client queries and working on both development and Support Team.
+Krisol Infosoft as Junior Web Developer Jan 2019 to Till Date The role is responsible for designing, coding and modifying websites, from layout to function and according to a client's specifications. Writing well designed, testable, efficient code by using best software development.Handling Client queries and working on both development and Support Team.
+Krisol Infosoft Pvt. Ltd as Jr. Web Developer Jan 2019 to Jan 2020 * Developing in-house ERP projects in ASP.NET and SQL/Oracle * Worked on telerik applications * Responsible for the developing in-house ERP projects in (ASP.NET+SQL), (ASP.NET+ oracle 12c), API projects for supporting android app. Worked on web services * Handling the problem and troubleshooting * Unit Testing and Documentations * Directing or performing Website updates * Website and software application designing, building, or maintaining
+^ Back to Top
+
+Education UG: B.Sc (Computers) from Mumbai University in 2016 PG: MCA (Computers), Correspondence/Distance Learning from Mumbai University in 2020 Other Qualifications/Certifications/Programs: * Certified with SCTST-JAVA from Seed Infotech including C, SQL, J2SE, and J2EE.
+
+^ Back to Top
+
+IT Skills
+
+Skill Name Version Last Used
+
+Experience
+
+C, C++, Core Java, C#,Asp.Net with MVC
+
+SQL (Oracle 12C)
+
+XML, HTML, JavaScript
+
+Eclipse, Microsoft Visual Studio 2017
+
+WINDOWS
+
+^ Back to Top
+
+Languages Known
+
+Language
+
+Proficiency Read Write Speak
+
+English
+
+Hindi
+
+Marathi
+
+",Amruta b ThoratFeatured Resume Jr web developer seek assignment Software DevelopmentWeb Application DevelopmentProject ManagementRequirement GatheringUnit TestingSoftware DesignCCCore JavaCAspNetMVCXMLHtmlJavaScriptEclipseMicrosoft Visual Studio Current Designation Junior Web Developer Current Company Krisol Infosoft Current Location Mumbai Pref Location MumbaiNavi Mumbai Functional Area it Software Application Programming Maintenance Role Software Developer Industry ITSoftwareSoftware Services Marital Status Married Total Experience Years Months Notice Period day less Highest Degree MCA Computers Key Skills jr web developersoftware developersoftware developmentweb application developmentproject managementunit testingcccore javacaspnetmvcxmlhtmljavascripteclipsemicrosoft visual studio verify Phone Number Email i d ID Active Modified 11Sep20 Jump SectionWork experience Education it skill Summary percue MCA 2nd year year experience Software DevelopmentWeb application DevelopmentProject ManagementUnit TestingSoftware designcccore JavaCAspNetMVCXMLHtmlJavaScript Work Experience krisol infosoft Junior Web Developer Jan Jan role responsible design code modifying website layout function accord client specification write well design testable efficient code use good software developmenthandle Client query work development Support Team Krisol Infosoft Junior Web Developer Jan Date role responsible design code modifying website layout function accord client specification write well design testable efficient code use good software developmenthandle Client query work development Support Team Krisol Infosoft Pvt Ltd Jr web Developer Jan Jan develop inhouse ERP project ASPNET sqloracle worked telerik application responsible develop inhouse ERP project ASPNETSQL ASPNET oracle API project support android app Worked web service handling problem troubleshoot Unit Testing Documentations direct perform website update website software application design building maintain Back Top Education UG BSc Computers Mumbai University PG MCA Computers CorrespondenceDistance learn Mumbai University Other QualificationsCertificationsPrograms certify SCTSTJAVA Seed Infotech include C SQL J2SE J2EE Back Top it Skills Skill Name Version last use experience c c Core Java caspnet MVC SQL Oracle xml HTML JavaScript Eclipse Microsoft Visual Studio WINDOWS Back Top Languages Known Language Proficiency Read write Speak English Hindi Marathi,Name Junior UG direct project write HTML 2nd role service DesignCCCore Core Jr infosoft Area Married Number ITSoftwareSoftware Period experience c javacaspnetmvcxmlhtmljavascripteclipsemicrosoft Speak English C Version Microsoft Eclipse Company SQL developmentweb ManagementUnit Designation Key year efficient work Pvt developmentproject ERP telerik PG Languages developer Status design Krisol d GatheringUnit building MumbaiNavi Date Services API good skill SCTSTJAVA Language Known MCA modifying SectionWork Modified ASPNETSQL Amruta DevelopmentWeb Functional xml J2SE Current Marital certify sqloracle i Skill JavaCAspNetMVCXMLHtmlJavaScriptEclipseMicrosoft app android Documentations client b developersoftware Industry Role function Years University developmenthandle support Other oracle CorrespondenceDistance Top caspnet WINDOWS Marathi Programming layout Months Developer J2EE update ManagementRequirement Total JavaScript Location accord MVC Jump website Team JavaCAspNetMVCXMLHtmlJavaScript Proficiency Oracle Infosoft perform Phone Work inhouse Summary troubleshoot ASPNET use Application BSc worked Resume TestingSoftware software ThoratFeatured application visual learn last Jan krisol Skills specification Support Back Email Software assignment Visual DevelopmentProject less studio develop Worked Java verify Mumbai 11Sep20 Unit responsible QualificationsCertificationsPrograms Education percue Computers Seed Pref Studio ID designcccore day problem code Ltd testingcccore Highest Degree Client development seek web Web Experience well query Read Notice Active maintain Infotech testable Maintenance jr Hindi include handling Testing it managementunit,Name Junior UG project HTML role service Core Jr Area Married Number ITSoftwareSoftware Period experience c Speak English C Version Microsoft Eclipse Company SQL developmentweb ManagementUnit Designation year work Pvt developmentproject ERP telerik PG developer Status design Krisol d GatheringUnit building MumbaiNavi Date API skill SCTSTJAVA Language MCA modifying SectionWork Modified ASPNETSQL Amruta DevelopmentWeb Functional xml J2SE Current Marital certify sqloracle Skill app android client b developersoftware Industry Role function Years University developmenthandle support oracle CorrespondenceDistance Top caspnet WINDOWS Marathi Programming layout Developer J2EE update ManagementRequirement Total JavaScript Location accord MVC Jump website Team JavaCAspNetMVCXMLHtmlJavaScript Proficiency Oracle Infosoft Phone Work inhouse Summary troubleshoot ASPNET Application Resume TestingSoftware software ThoratFeatured application learn Jan krisol Skills specification Support Email Software assignment Visual DevelopmentProject studio Worked Java Mumbai 11Sep20 Unit QualificationsCertificationsPrograms Education percue Seed Pref Studio ID designcccore day problem code Ltd testingcccore Highest Degree Client development seek web Web Experience query Notice Infotech Maintenance jr Hindi managementunit,11sep20 2nd accord active amruta android api app application area aspnet aspnetsql assignment back bsc building caspnet certify client code company computers core correspondencedistance current date day degree design designation designcccore develop developer developersoftware development developmenthandle developmentproject developmentweb direct documentations eclipse education efficient email english erp experience function functional gatheringunit good handling highest hindi html id include industry infosoft infotech inhouse it itsoftwaresoftware j2ee j2se jan java javacaspnetmvcxmlhtmljavascript javacaspnetmvcxmlhtmljavascripteclipsemicrosoft javascript jr jump junior key known krisol language languages last layout learn less location ltd maintain maintenance managementrequirement managementunit marathi marital married mca microsoft modified modifying months mumbai mumbainavi mvc name notice number oracle other percue perform period pg phone pref problem proficiency programming project pvt qualificationscertificationsprograms query read responsible resume role sctstjava sectionwork seed seek service services skill skills software speak specification sql sqloracle status studio summary support team telerik testable testing testingcccore testingsoftware thoratfeatured top total troubleshoot ug unit university update use verify version visual web website well windows work worked write xml year years
+Arun Kumar.docx,"Arun Kumar UFeatured Resume  
+
+ 
+
+HR Manager seeking assignments in HR Management,Administration,Recruitment,Employee Engagement,Talent Acquisition,Training & Development,Manpower Planning,Performance Management,Compensation & Benefits,Organizational Development,Facility Management
+
+
+
+ 
+
+ 
+
+Current Designation: HR Manager (Payroll & Compliance)
+
+Current Company: Ecare India Pvt Limited
+
+Current Location: Chennai
+
+Pref. Location: Bengaluru / Bangalore,Chennai,Hyderabad
+
+Functional Area: HR / Administration / IR
+
+Role: HR Manager
+
+Industry: BPO/ITES
+
+Marital Status: Single/unmarried
+
+Total Experience: 12 Year(s) 0 Month(s)
+
+Notice Period: 2 Months
+
+Highest Degree: MBA/PGDM [HR/Industrial Relations]
+
+ 
+
+Key Skills: HR Manager,HR Management,Administration,Recruitment,Employee Engagement,Talent Acquisition,Training & Development,Manpower Planning,Performance Management,Compensation & Benefits,Organizational Development,Facility Management,Industrial Relation
+
+ 
+
+Verified :  Phone Number |  Email - id
+
+ 
+
+ID: 4e238c2e470b2ccd32Last Active: 17-Sep-20Last Modified: 17-Sep-20
+
+ 
+
+Jump to SectionWork Experience | Education | IT Skills |
+
+ 
+
+ 
+
+Summary
+
+Highly Effective Human Resources Manager with over 12+ years of experience specializing in establishing productive business relationships and resolving critical human capital business issues. Demonstrated competencies in carrying out multiple tasks simultaneously, meeting tight deadlines, maintaining strict confidentiality of company records, coordinating with third parties and surpassing performance parameters. Well-equipped in organizing groups, preparing documentations and reporting. Proactive and efficient team player, sports oriented with excellent analytical, problem solving, organization, coordination, time management, communication and interpersonal skills. 
+
+
+
+ 
+
+Work Experience
+
+ Ecare India Pvt Limited as HR Manager (Payroll & Compliance)
+
+May 2017 to Till Date
+
+Responsible for error free, end to end payroll processing and on-time salary disbursement.
+
+Maintaining payroll information by designing systems, calculation, and entering of data.
+
+Updating payroll records by reviewing and approving changes in exemptions, Employee CTC, Insurance/Mediclaim coverage, savings deductions, job titles, and department/ division transfers.
+
+Paying employees by directing the production and issuance of paychecks or electronic transfers to bank accounts and distributing payslips electronically on timely manner.
+
+Preparing reports by compiling summaries of earnings, taxes, deductions, leave wages and registers.
+
+Preparing thorough workings and remitting employee statutory benefits such as Employee State Insurance Corp (ESI), Provident Fund (PF), Gratuity, Labor Welfare Fund (LWF), Professional Tax (P.Tax) and ensuring with Management for payment closure on timely manner.
+
+Handling compliance administration such as PF Transfer requests, PF claim queries, PF KYC updations, ESI Maternity benefit claims, Death claim process from ESI/PF/Gratuity.
+
+Responsible for maintenance of accurate Payroll Inputs such as Personnel Entry, Separations, Bonus payments, Interim Hikes, Incentive payouts, Salary accounts, leave encashment payouts, deductions.
+
+Determining payroll liabilities by approving the calculation of employee state income and social security taxes, employer's social security, and workers compensation payments.
+
+Hosting and completing Bi-annual Appraisal system, complete Budget workings, Salary grid workings
+
+Designation wise average salary analysis), letter generation and giving effect in Payroll with nil error.
+
+Balancing the payroll accounts by resolving payroll discrepancies.
+
+Providing payroll information by resolving queries.
+
+Maintaining payroll guidelines by writing and updating policies and procedures.
+
+Responsible for Attendance administration and monthly Attendance record keeping for all employees.
+
+Complying with state and local legal requirements by studying existing and new legislation; enforcing adherence to requirements; advising management on needed actions.
+
+Maintaining employee confidence and protecting payroll operations by keeping information confidential.
+
+Maintaining professional and technical knowledge by reviewing professional publications; establishing personal networks; participating in professional societies.
+
+Coordinating with vendor for payroll systems.
+
+
+
+HR Manager (Business Partnering)
+
+Second-in-line command for everything related to Human Resource Management of the Organization.
+
+Ensured compliance of Human Resource policy, employee benefits and employment law at all levels.
+
+Managed HR Operations & HR Business Partnering (for both Day & Night business) functions with a team size of 3 & providing adequate mentorship to the Associates consistently.
+
+Provided confidential issue resolution while working with various levels of management.
+
+Advise Managers on Organizational policies and recommend needed changes.
+
+Participating in the Quarterly Management review meetings representing HR Department and working on improvements.
+
+Plan and implement recreational events (monthly fun, yearly cultural & sports events) and budget approvals.
+
+Representing employer in High court, Labor Court, Police Station, Advocates and other Govt bodies as and when required, for handling legal issues.
+
+Being an approved Interview panelist of the Organization, responsible to be a part of IJP and Promotion interviews, analyze and provide recommendations to the Management.
+
+Responsible to conduct orientation to foster positive attitude towards Organizational objectives.
+
+Serve as a link between Management and employees by handling employee issues, incident arise, PIP and serving to resolve work-related problems to foster positive environment.
+
+Responsible for conducting and providing innovative ideas for Rewards & Recognition program on quarterly basis.
+
+ 
+
+ Sundaram Business Services Limited as HR Officer
+
+Dec 2013 to May 2017
+
+Consult with line management and provide daily HR guidance.
+
+Resolve complex employee relations issues and address grievances.
+
+Work closely with management and employees to improve work relationships, build morale and increase productivity and retention.
+
+Organizing and conducting induction for new hires, preserving moral and taking care of their welfare.
+
+Responsible for initiation and completion of Performance Management System (PMS)
+
+Handling ISO, ISMS and other internal and external audits.
+
+Responsible for conducting one to one/group connects to understand employees concerns and to recommend organization on possible implementation of changes/improvements.
+
+Responsibility, with the HR department to ensure that all HR policies and procedures are regularly reviewed and continue to reflect both up-to-date employment law and best practice.
+
+Reviewing staff awards processes (R&R) and to design an effective staff award system which recognizes excellent performance.
+
+Conducting retention discussion for resigned personnel to find possible means to retain them.
+
+Provide HR policy guidance.
+
+Identifying training needs for teams and individuals.
+
+Suggest new HR strategies.
+
+Responsible for specific HR related projects from time to time and as required. Researching, progressing and coordinating the project and make recommendations for future actions.
+
+Organizing fun @ work activities.
+
+
+
+HR Officer (HR Operations)- Sundaram Business Services Limited
+
+Managed HR Operations function with a team size of 4 & providing adequate mentorship consistently.
+
+Responsible for error free payroll processing and on time salary disbursement.
+
+To coordinate with the finance & MIS department for monthly payroll system, make necessary needful for new joiners, separations, unpaid leave, salary advances, etc. Follow-up with Bank for timely credit of salary & Issuing salary slips.
+
+Preparing complete workings and remitting employee statutory benefits such as Employee State Insurance Corp (ESI), Provident Fund (PF), Gratuity, Labor Welfare Fund (LWF), Professional Tax (P.Tax) and ensuring with Management for payment closure on a timely manner.
+
+Research, implement and administer all company benefit plans.
+
+Maintain all organization policies, procedures and provide guidance and Interpretation to staff.
+
+Ensure all data (new staff, transfers, promotions) and employment changes (Salary changes, separations) are maintained for two group entities of Sundaram Finance which carries employee base of 1000+.
+
+Maintain in-depth knowledge of legal requirements related to HR, reducing legal risks and ensuring all statutory compliance & timely remittances to Govt bodies.
+
+Led the complete migration process from one HRMS system to other which involves payroll, attendance, performance management system, employee self-service etc (Sundaram Business Services).
+
+Maintain employees' attendance in HRMS system and generate attendance reports to stake holders as and when required and for salary processing.
+
+Develop and maintain Human Resources systems that meet HR personnel information needs.
+
+Consult with line management providing HR guidance when appropriate.
+
+Identifying training needs for HR Operations team and individuals.
+
+To maintain personnel dossier for complete employee life cycle.
+
+To take responsibility for specific HR related projects from time to time and as required. Researching, progressing and coordinating the project and make recommendations for future action.
+
+ 
+
+ WNS Global Services as HR Executive
+
+Mar 2012 to Dec 2013
+
+Validate employees' documents, bank account opening and present company policies.
+
+Conducting Induction program for all new hires.
+
+Generate Employee ID's and improve processes based on GAP analysis report.
+
+Record complete life-cycle of the employee using HRMS PeopleSoft.
+
+Identify the requirements from business and process as per policy and procedures of IJP; Plan the IJP calendar in correlation with IJP team and arrange for Competency Based Interviews (CBI) panel for interviews.
+
+Conducts exit interviews, promotion and progression exercise for all job levels in unit and Resource management.
+
+ 
+
+^ Back to Top
+
+ 
+
+Education
+
+UG: B.Com (Commerce) from Madras University in 2008
+
+PG: MBA/PGDM (HR/Industrial Relations) from Pondicherry University in 2014
+
+ 
+
+ 
+
+^ Back to Top
+
+ 
+
+IT Skills
+
+Skill Name	Version	Last Used	Experience
+
+People vision, Oracle HRMS PeopleSoft			
+
+Ramco Virtual works, Formula HR			
+
+Applecart/Cpay V7 & V10			
+
+MS OFFICE",Arun Kumar UFeatured Resume hr manager seek assignment HR ManagementAdministrationRecruitmentEmployee EngagementTalent AcquisitionTraining DevelopmentManpower PlanningPerformance ManagementCompensation BenefitsOrganizational DevelopmentFacility Management Current Designation hr Manager Payroll Compliance Current Company Ecare India Pvt Limited Current Location Chennai Pref Location Bengaluru BangaloreChennaiHyderabad Functional Area HR Administration IR Role HR Manager Industry BPOITES Marital status Singleunmarried Total Experience Years Months Notice Period Months Highest Degree MBAPGDM HRIndustrial Relations Key Skills HR ManagerHR ManagementAdministrationRecruitmentEmployee EngagementTalent AcquisitionTraining DevelopmentManpower PlanningPerformance ManagementCompensation BenefitsOrganizational DevelopmentFacility ManagementIndustrial Relation verify Phone Number Email i d ID active 17sep20last modify 17Sep20 Jump SectionWork experience Education it Skills Summary highly Effective Human Resources Manager year experience specialize establish productive business relationship resolve critical human capital business issue demonstrate competency carry multiple task simultaneously meet tight deadline maintain strict confidentiality company record coordinate third party surpass performance parameter Wellequipped organize group prepare documentation report proactive efficient team player sport orient excellent analytical problem solve organization coordination time management communication interpersonal skill Work Experience Ecare India Pvt Limited HR Manager Payroll Compliance may date responsible error free end end payroll processing ontime salary disbursement maintain payroll information design system calculation enter datum update payroll record review approve change exemption employee CTC InsuranceMediclaim coverage saving deduction job titles department division transfer pay employee direct production issuance paycheck electronic transfer bank account distribute payslip electronically timely manner prepare report compile summary earning taxis deduction leave wage register prepare thorough working remit employee statutory benefit Employee State Insurance Corp ESI Provident Fund PF Gratuity Labor Welfare Fund LWF Professional Tax PTax ensure management payment closure timely manner handling compliance administration PF Transfer request pf claim query PF KYC updation ESI Maternity benefit claim death claim process esipfgratuity responsible maintenance accurate Payroll Inputs Personnel Entry Separations Bonus payment Interim hike Incentive payout Salary account leave encashment payout deduction determine payroll liability approve calculation employee state income social security taxis employer social security worker compensation payment host complete Biannual Appraisal system complete budget working Salary grid working designation wise average salary analysis letter generation give effect Payroll nil error balancing payroll account resolve payroll discrepancy provide payroll information resolve query maintain payroll guideline write update policy procedure Responsible Attendance administration monthly Attendance record keep employee comply state local legal requirement study exist new legislation enforce adherence requirement advise management need action maintain employee confidence protect payroll operation keep information confidential maintain professional technical knowledge review professional publication establish personal network participate professional society coordinate vendor payroll system HR Manager Business Partnering Secondinline command relate Human Resource Management Organization ensure compliance Human Resource policy employee benefit employment law level manage HR Operations hr Business Partnering Day Night business function team size provide adequate mentorship Associates consistently provide confidential issue resolution work various level management Advise Managers organizational policy recommend need change participate Quarterly Management review meeting represent HR Department working improvement plan implement recreational event monthly fun yearly cultural sport event budget approval represent employer high court Labor Court Police Station Advocates Govt body require handle legal issue approve Interview panelist Organization responsible part IJP Promotion interview analyze provide recommendation management responsible conduct orientation foster positive attitude organizational objective serve link management employee handle employee issue incident arise PIP serve resolve workrelate problem foster positive environment responsible conduct provide innovative idea Rewards Recognition program quarterly basis Sundaram Business Services Limited hr Officer Dec may consult line management provide daily hr guidance Resolve complex employee relation issue address grievance work closely management employee improve work relationship build morale increase productivity retention organize conduct induction new hire preserve moral take care welfare responsible initiation completion Performance Management System PMS handle iso isms internal external audits responsible conduct onegroup connect understand employee concern recommend organization possible implementation changesimprovement responsibility hr department ensure hr policy procedure regularly review reflect uptodate employment law good practice review staff award process rr design effective staff award system recognize excellent performance conduct retention discussion resign personnel find possible mean retain Provide hr policy guidance identify training need team individual suggest new hr strategy responsible specific hr relate project time time require research progress coordinate project make recommendation future action organize fun work activity hr Officer HR Operations Sundaram Business Services Limited Managed hr Operations function team size provide adequate mentorship consistently responsible error free payroll processing time salary disbursement coordinate finance MIS department monthly payroll system make necessary needful new joiner separation unpaid leave salary advance Followup Bank timely credit salary Issuing salary slip prepare complete working remit employee statutory benefit Employee State Insurance Corp ESI Provident Fund PF Gratuity Labor Welfare Fund LWF Professional Tax PTax ensure management payment closure timely manner Research implement administer company benefit plan maintain organization policy procedure provide guidance interpretation staff ensure datum new staff transfer promotion employment change Salary change separation maintain group entity Sundaram Finance carry employee base maintain indepth knowledge legal requirement related hr reduce legal risk ensure statutory compliance timely remittance Govt body lead complete migration process HRMS system involve payroll attendance performance management system employee selfservice Sundaram Business Services maintain employee attendance HRMS system generate attendance report stake holder require salary processing Develop maintain Human Resources system meet hr personnel information need consult line management provide hr guidance appropriate identify training need hr Operations team individual maintain personnel dossier complete employee life cycle take responsibility specific hr related project time time require research progress coordinate project make recommendation future action WNS Global Services HR Executive Mar Dec Validate employee document bank account open present company policy conduct Induction program new hire Generate Employee id improve process base GAP analysis report record complete lifecycle employee use HRMS PeopleSoft Identify requirement business process policy procedure IJP plan IJP calendar correlation IJP team arrange Competency Based Interviews CBI panel interview conduct exit interview promotion progression exercise job level unit Resource management Top Education UG BCom Commerce Madras University PG MBAPGDM HRIndustrial Relations Pondicherry University Back Top it Skills Skill Name Version last use experience People vision Oracle HRMS PeopleSoft Ramco virtual work Formula HR ApplecartCpay V7 V10 MS OFFICE,titles implementation staff 17sep20last company updation Associates Competency external closely Managers calendar UFeatured identify necessary Secondinline hike solve worker involve orientation Effective Top efficient year productivity OFFICE management network multiple Welfare mean Department state Sundaram enforce Recognition coordinate Insurance prepare practice resign income error calculation discrepancy exercise Gratuity Promotion progression size monthly PMS Marital end approval carry transfer correlation study CTC InsuranceMediclaim Industry function host statutory needful meeting human cycle report grid review guidance migration Months closure effect Total body personnel Research interpersonal provide earning third Jump AcquisitionTraining possible effective PTax administer Oracle connect morale Management panelist onegroup MBAPGDM encashment CBI attitude Personnel Followup meet Police death Appraisal performance adherence payslip parameter credit Quarterly responsible excellent documentation relate ID foster problem generate Degree joiner simultaneously organize part Govt comply Night handling direct project Employee retention conduct Day Human grievance Global Area reduce Period experience present competency administration procedure discussion Company PF Business Mar design exit welfare Managed remit division vision PeopleSoft Salary Develop Court Finance court paycheck timely 17Sep20 activity V10 Dec Operations audits complete Ramco Executive Provide Skill Relations Organization changesimprovement account high indepth line Performance fun policy HRIndustrial consistently EngagementTalent payout electronically research KYC Location Identify date datum initiation record ManagementIndustrial Interviews recommend moral LWF organizational ManagementCompensation recognize enter Tax Arun BangaloreChennaiHyderabad protect risk Bonus status related Induction use base WNS adequate induction Resume process confidential Based employer entity communication yearly Back document Email assignment salary society system panel specialize balancing production budget Rewards BenefitsOrganizational specific legislation request address open Highest plan Resolve seek query esipfgratuity ManagementAdministrationRecruitmentEmployee maintain it task give Name UG local consult write Bengaluru id understand preserve arise advise slip mentorship active State attendance Number Validate hire wise GAP V7 iso Labor thorough recommendation analysis claim make regularly Key cultural PG reflect Wellequipped legal Corp Fund coordination d PIP recreational Services stake lifecycle approve requirement Professional letter free operation increase IJP demonstrate confidence productive Officer positive Singleunmarried saving tight care objective i modify team resolve System manner Partnering Transfer group Advocates Role ensure Responsible daily Formula basis level University concern personal life Manager deadline future environment rr professional People Separations MIS working link hr workrelate Phone determine uptodate India register capital Work advance Summary orient processing knowledge virtual internal Interview HRMS handle Bank relation new Biannual verify responsibility isms quarterly Relation Pondicherry various strategy employee DevelopmentFacility action require Experience Resources relationship HR Notice pf pay information compile Interim manage SectionWork Payroll idea take MS may nil surpass publication build program taxis training incident unpaid Version average Designation Pvt work find benefit Generate job wage strict analytical DevelopmentManpower player lead good skill BPOITES compliance interview implement retain Chennai Functional coverage BCom represent maintenance Inputs progress improve separation Issuing complex Current highly Incentive participate Station change proactive disbursement analyze manager Provident Years serve sport need interpretation Administration event IR confidentiality update issuance exist time resolution holder Attendance command completion ontime security individual Maternity Kumar vendor Commerce arrange department selfservice dossier business unit promotion guideline designation Compliance establish leave organization accurate Entry liability last remittance ApplecartCpay Skills distribute social Resource electronic generation payroll technical Advise law keep employment payment Education improvement award Limited critical exemption ManagerHR Pref compensation innovative summary party deduction finance bank Madras ESI PlanningPerformance appropriate issue Ecare suggest,implementation staff 17sep20last company updation Competency calendar UFeatured Secondinline hike worker orientation Effective year productivity OFFICE management network Welfare mean Department state Sundaram Recognition coordinate Insurance practice resign income error calculation discrepancy exercise Gratuity Promotion progression size PMS Marital end approval transfer correlation study CTC InsuranceMediclaim Industry function host meeting cycle report grid review guidance migration closure effect body Research Jump AcquisitionTraining PTax administer Oracle morale Management panelist onegroup MBAPGDM encashment CBI attitude Personnel Followup Police death performance adherence payslip parameter credit Quarterly documentation ID foster problem Degree joiner part Govt comply Night project Employee retention conduct Day grievance Global Area Period experience competency administration procedure discussion Company PF Business Mar design exit welfare remit division vision PeopleSoft Salary Develop Court Finance court paycheck timely activity V10 Dec Operations audits Ramco Executive Provide Skill Organization indepth line Performance fun policy HRIndustrial EngagementTalent payout KYC Location Identify date datum initiation record ManagementIndustrial Interviews LWF ManagementCompensation recognize Tax Arun risk Bonus status Induction use base WNS induction Resume process employer entity communication document Email salary society system panel production budget Rewards BenefitsOrganizational legislation request address plan Resolve query esipfgratuity ManagementAdministrationRecruitmentEmployee task Name UG consult Bengaluru d preserve advise slip mentorship State attendance Number Validate GAP V7 iso Labor recommendation analysis claim Key PG Wellequipped legal Corp Fund coordination PIP stake lifecycle requirement letter operation increase IJP confidence Officer care objective team System manner Partnering Transfer group Advocates Role Formula basis level University concern life Manager deadline environment Separations MIS link hr Phone determine India capital Work advance Summary orient processing knowledge Interview HRMS Bank relation verify responsibility Relation Pondicherry strategy employee DevelopmentFacility action Experience relationship HR Notice pf pay information Interim manage SectionWork Payroll idea MS surpass publication program training incident Version Designation Pvt work benefit Generate job wage DevelopmentManpower player skill BPOITES compliance interview implement Chennai Functional coverage BCom maintenance progress separation Issuing Current Incentive participate Station analyze manager Provident sport interpretation Administration event IR confidentiality update issuance time resolution holder Attendance command completion ontime security individual Maternity Kumar vendor Commerce department selfservice dossier business unit promotion guideline designation Compliance organization Entry liability remittance ApplecartCpay Resource generation payroll Advise law employment payment Education improvement award exemption Pref compensation summary party deduction finance bank Madras ESI PlanningPerformance issue Ecare,administration advise attendance bank business company competency compliance court department designation effective employee experience finance generate hr human id identify induction interview management manager organization payroll performance personnel pf professional promotion provide quarterly relation research resolve responsible salary skill state summary system transfer welfare work
+data-analyst-resume.pdf,"FARAH MARTIN
+DATA ANALYST
+
+CONTACT
+farahmartin@email.com (123) 456-7890 Brooklyn, NY LinkedIn
+EDUCATION
+B.S. Mathematics and
+Economics University of Pittsburgh
+September 2010 - April 2014 Pittsburgh, PA
+SKILLS
+SQL Excel/ Google Sheets
+A/B Testing & Experimentation
+Tableau Python (Pandas, Scikit-learn)
+Google Analytics Leadership Experience
+
+WORK EXPERIENCE
+Data Analyst
+Fountain House
+May 2018 - current / New York, NY
+� Built out the data and reporting infrastructure from the ground up using Tableau and SQL to provide real-time insights into the product, marketing funnels, and business KPIs
+� Designed and implemented A/B experiments for products to improve the conversion rate by 19 basis points and reduce churn by 12 basis points
+� Implemented long-term pricing experiment that improved customer value by 25%
+� Built operational reporting in Tableau to find areas of improvement for contractors resulting in $250K in annual incremental revenue
+� Led a team of 2 full-time employees and 4 contractors
+Data Analyst
+Wavely
+August 2016 - May 2018 / New York, NY
+� Partnered directly with the executive team as the first data hire to formulate and report on KPIs across their web properties that received 225M visitors annually using SQL and Google Sheets
+� Built a logistic regression model to help the SEO team decide which keywords to target, resulting in a 15% lift in YoY site visitors in 2018
+� Collaborated with product managers to perform cohort analysis that identified an opportunity to reduce pricing by 22% for a segment of users to boost yearly revenue by $730K
+� Developed root cause reports to address problems with customer conversions, successfully revealing insights that boosted conversions by 32%
+Product Modeling Analyst
+Geico
+August 2014 - August 2016 / Washington D.C.
+� Developed and owned reporting for a nationwide retention program with Python, SQL, and Excel, saving ~90 hours of monthly labor
+� Identified procedural areas of improvement through customer data, using SQL to help improve the profitability of a nationwide retention program by 8%
+� Applied models and data to understand and predict repair costs for vehicles on the market, and presented findings to stakeholders
+
+",FARAH MARTIN DATA analyst contact farahmartinemailcom Brooklyn NY LinkedIn EDUCATION BS Mathematics Economics University Pittsburgh September April Pittsburgh PA SKILLS SQL Excel Google Sheets AB Testing Experimentation Tableau Python Pandas Scikitlearn Google Analytics Leadership Experience work experience Data Analyst Fountain House may current New York ny build datum report infrastructure ground use Tableau SQL provide realtime insight product marketing funnel business kpi design implement ab experiment product improve conversion rate basis point reduce churn basis point implement longterm pricing experiment improve customer value build operational reporting Tableau find area improvement contractor result K annual incremental revenue Led team fulltime employee contractor Data Analyst Wavely August may New York ny partner directly executive team first datum hire formulate report kpi web property receive m visitor annually use SQL Google Sheets build logistic regression model help seo team decide keyword target result lift yoy site visitor collaborate product manager perform cohort analysis identify opportunity reduce pricing segment user boost yearly revenue K develop root cause report address problem customer conversion successfully reveal insight boost conversion Product Modeling Analyst Geico August August Washington DC develop own report nationwide retention program Python SQL Excel save hour monthly labor identify procedural area improvement customer datum use SQL help improve profitability nationwide retention program Applied model datum understand predict repair cost vehicle market present finding stakeholder,EDUCATION result Economics partner reporting April retention farahmartinemailcom funnel may understand market build program contractor Google reduce experience identify Analyst hire present logistic New analysis keyword SQL fulltime Applied Leadership work DATA find target Geico House design current Fountain property Analytics yoy Mathematics Python directly own annually stakeholder longterm Modeling implement insight revenue model rate Experimentation improve visitor segment ground monthly York vehicle save profitability incremental team Scikitlearn hour pricing seo Tableau help manager cost first procedural Product basis repair University infrastructure executive nationwide report value cause NY Pittsburgh site m boost contact product datum provide kpi lift regression September annual FARAH perform August LinkedIn root predict conversion business area use ab realtime successfully Brooklyn Data labor Pandas analyst cohort decide K AB Excel Wavely user yearly develop reveal BS DC SKILLS receive PA Sheets improvement operational address experiment MARTIN Led problem ny Washington employee finding marketing formulate collaborate customer web Experience point churn Testing opportunity,EDUCATION Economics partner April retention farahmartinemailcom funnel market build program contractor Google experience Analyst analysis keyword SQL fulltime Applied Leadership work target Geico House design Fountain property yoy Mathematics Python stakeholder longterm Modeling implement insight revenue model rate Experimentation visitor segment ground York vehicle profitability team Scikitlearn hour pricing seo Tableau manager Product basis repair University infrastructure executive report value NY Pittsburgh site contact product datum kpi lift regression September perform August LinkedIn root conversion business area ab realtime Brooklyn Data labor Pandas analyst cohort K AB Excel Wavely user BS DC SKILLS PA improvement address experiment MARTIN Led problem Washington employee marketing formulate collaborate customer web Experience point churn Testing opportunity,ab address analysis analyst analytics annual annually applied april area august basis boost brooklyn bs build business cause churn cohort collaborate contact contractor conversion cost current customer data datum dc decide design develop directly economics education employee excel executive experience experiment experimentation farah farahmartinemailcom find finding first formulate fountain fulltime funnel geico google ground help hire hour house identify implement improve improvement incremental infrastructure insight keyword kpi labor leadership led lift linkedin logistic longterm manager market marketing martin mathematics may model modeling monthly nationwide new ny operational opportunity own pa pandas partner perform pittsburgh point predict present pricing problem procedural product profitability program property provide python rate realtime receive reduce regression repair report reporting result retention reveal revenue root save scikitlearn segment seo september sheets site skills sql stakeholder successfully tableau target team testing understand university use user value vehicle visitor washington wavely web work yearly york yoy
+FARAH MARTIN.pdf,"FARAH MARTIN
+DATA ANALYST
+
+CONTACT
+farahmartin@email.com (123) 456-7890 Brooklyn, NY LinkedIn
+EDUCATION
+B.S. Mathematics and
+Economics University of Pittsburgh
+September 2010 - April 2014 Pittsburgh, PA
+SKILLS
+SQL Excel/ Google Sheets
+A/B Testing & Experimentation
+Tableau Python (Pandas, Scikit-learn)
+Google Analytics Leadership Experience
+
+WORK EXPERIENCE
+Data Analyst
+Fountain House
+May 2018 - current / New York, NY
+� Built out the data and reporting infrastructure from the ground up using Tableau and SQL to provide real-time insights into the product, marketing funnels, and business KPIs
+� Designed and implemented A/B experiments for products to improve the conversion rate by 19 basis points and reduce churn by 12 basis points
+� Implemented long-term pricing experiment that improved customer value by 25%
+� Built operational reporting in Tableau to find areas of improvement for contractors resulting in $250K in annual incremental revenue
+� Led a team of 2 full-time employees and 4 contractors
+Data Analyst
+Wavely
+August 2016 - May 2018 / New York, NY
+� Partnered directly with the executive team as the first data hire to formulate and report on KPIs across their web properties that received 225M visitors annually using SQL and Google Sheets
+� Built a logistic regression model to help the SEO team decide which keywords to target, resulting in a 15% lift in YoY site visitors in 2018
+� Collaborated with product managers to perform cohort analysis that identified an opportunity to reduce pricing by 22% for a segment of users to boost yearly revenue by $730K
+� Developed root cause reports to address problems with customer conversions, successfully revealing insights that boosted conversions by 32%
+Product Modeling Analyst
+Geico
+August 2014 - August 2016 / Washington D.C.
+� Developed and owned reporting for a nationwide retention program with Python, SQL, and Excel, saving ~90 hours of monthly labor
+� Identified procedural areas of improvement through customer data, using SQL to help improve the profitability of a nationwide retention program by 8%
+� Applied models and data to understand and predict repair costs for vehicles on the market, and presented findings to stakeholders
+
+",FARAH MARTIN DATA analyst contact farahmartinemailcom Brooklyn NY LinkedIn EDUCATION BS Mathematics Economics University Pittsburgh September April Pittsburgh PA SKILLS SQL Excel Google Sheets AB Testing Experimentation Tableau Python Pandas Scikitlearn Google Analytics Leadership Experience work experience Data Analyst Fountain House may current New York ny build datum report infrastructure ground use Tableau SQL provide realtime insight product marketing funnel business kpi design implement ab experiment product improve conversion rate basis point reduce churn basis point implement longterm pricing experiment improve customer value build operational reporting Tableau find area improvement contractor result K annual incremental revenue Led team fulltime employee contractor Data Analyst Wavely August may New York ny partner directly executive team first datum hire formulate report kpi web property receive m visitor annually use SQL Google Sheets build logistic regression model help seo team decide keyword target result lift yoy site visitor collaborate product manager perform cohort analysis identify opportunity reduce pricing segment user boost yearly revenue K develop root cause report address problem customer conversion successfully reveal insight boost conversion Product Modeling Analyst Geico August August Washington DC develop own report nationwide retention program Python SQL Excel save hour monthly labor identify procedural area improvement customer datum use SQL help improve profitability nationwide retention program Applied model datum understand predict repair cost vehicle market present finding stakeholder,EDUCATION result Economics partner reporting April retention farahmartinemailcom funnel may understand market build program contractor Google reduce experience identify Analyst hire present logistic New analysis keyword SQL fulltime Applied Leadership work DATA find target Geico House design current Fountain property Analytics yoy Mathematics Python directly own annually stakeholder longterm Modeling implement insight revenue model rate Experimentation improve visitor segment ground monthly York vehicle save profitability incremental team Scikitlearn hour pricing seo Tableau help manager cost first procedural Product basis repair University infrastructure executive nationwide report value cause NY Pittsburgh site m boost contact product datum provide kpi lift regression September annual FARAH perform August LinkedIn root predict conversion business area use ab realtime successfully Brooklyn Data labor Pandas analyst cohort decide K AB Excel Wavely user yearly develop reveal BS DC SKILLS receive PA Sheets improvement operational address experiment MARTIN Led problem ny Washington employee finding marketing formulate collaborate customer web Experience point churn Testing opportunity,EDUCATION Economics partner April retention farahmartinemailcom funnel market build program contractor Google experience Analyst analysis keyword SQL fulltime Applied Leadership work target Geico House design Fountain property yoy Mathematics Python stakeholder longterm Modeling implement insight revenue model rate Experimentation visitor segment ground York vehicle profitability team Scikitlearn hour pricing seo Tableau manager Product basis repair University infrastructure executive report value NY Pittsburgh site contact product datum kpi lift regression September perform August LinkedIn root conversion business area ab realtime Brooklyn Data labor Pandas analyst cohort K AB Excel Wavely user BS DC SKILLS PA improvement address experiment MARTIN Led problem Washington employee marketing formulate collaborate customer web Experience point churn Testing opportunity,ab address analysis analyst analytics annual annually applied april area august basis boost brooklyn bs build business cause churn cohort collaborate contact contractor conversion cost current customer data datum dc decide design develop directly economics education employee excel executive experience experiment experimentation farah farahmartinemailcom find finding first formulate fountain fulltime funnel geico google ground help hire hour house identify implement improve improvement incremental infrastructure insight keyword kpi labor leadership led lift linkedin logistic longterm manager market marketing martin mathematics may model modeling monthly nationwide new ny operational opportunity own pa pandas partner perform pittsburgh point predict present pricing problem procedural product profitability program property provide python rate realtime receive reduce regression repair report reporting result retention reveal revenue root save scikitlearn segment seo september sheets site skills sql stakeholder successfully tableau target team testing understand university use user value vehicle visitor washington wavely web work yearly york yoy
+Resume(Shaon).docx,"Joar Sahara Bazar Road
+
+Dhaka-1219, Bangladesh
+
++880 1747123472
+
+shaonsikder.ewu@gmail.com
+
+Github/shaon2221
+
+LinkedIn/shaoncomputergeek
+
+Shaon Sikder  
+
+
+
+SKILLS
+
+Programming: Python, Pandas, OpenCV,  Matplotlib, Numpy, Selenium,  BeautifulSoup, Flask, Docker, Heroku, SQL
+
+Aptitude: Tableau, Excel, Jupyter  Notebook, Google Collab, GCP, AWS, Github,  Linux OS
+
+Statistics: Regression(Linear,  Multiple-linear, Logistic, Random  Forest), Classification(CNN, KNN, SVM,  Random Forest), Clustering(K means), Deep Learning(keras,tensorflow)  
+
+EXPERIENCE
+
+ADSPL Tech Ltd, India — Artificial Intelligence Engineer
+
+May 2021 - Present
+
+Acme AI Ltd, Dhaka — Junior Data Scientist
+
+April 2021 - May 2021
+
+Built small scale webapp for cattle weight estimation and deployed in heroku; dataset was collected through field work
+
+Developed face recognition based attendance solution
+
+Acme AI Ltd, Dhaka — Management Trainee
+
+December 2020 - March 2021 
+
+Built fish disease detection DL model using Tensorflow with 99% validation accuracy and deployed in Heroku. It was used as a demo to get funds for the company.
+
+Applied computer vision based neural network model for automation annotation which reduced cost of the company significantly. Aws sagemaker ground truth tool is used.
+
+Automated Google form to dynamic invoice pdf and email to the submitter. There is a similar chrome extension which costs $20/month. 
+
+In progress, cattle weight estimation project using Computer vision.
+
+Prepared project reports, dashboard, lead generation, helped management with development ideas and solutions.
+
+Solved IT and software problems and learned new things from time to time for the company’s growth as well as mine.
+
+General ELectric, Virtual Internship — Data Engineer
+
+August 2020 - September 2020
+
+Discovered Data storytelling (Run chart, KPI, Dashboard) 
+
+Working experience with Dataiku software and PostgreSQL 
+
+EDUCATION
+
+East West University, Dhaka — BSc. in Information & Communication Engineering
+
+May 2016 - April 2020, Result: CGPA 3.46
+
+Conducted thesis on NLP base project where scraped texts from Bengali  newspaper to perform sentiment analysis, Active member at Telecommunication club & Robotics club
+
+
+
+PROJECTS
+
+Real Time Tweet Analysis on US Election 2020 — NLP
+
+• Performed survey analysis using tweets(Democrats were 3% ahead of  Republican after first Democrat National Convention) 
+• Used twitter credential to access twitter API and collect tweets
+• Tools Used: Python, Pandas, Matplotlib, Seaborn, NLTK, Textblob
+
+COURSES
+
+Computer Vision Nanodegree (Udacity- In progress)
+
+Business Intelligence & Analytics by  Macquarie University (Coursera) 
+
+Excel for Data Analysis by Microsoft (Edex) 
+
+SQL for Data Science by IBM (Edex)
+
+AWARDS
+
+Dean’s Scholarship, 2017-19
+
+Submitted/Ongoing Research
+
+Shaon Sikder, Md. Al Imran, Dr. Mohammad Arifuzzaman. “Real-Time Tweet Analysis on  United States Presidential Election 2020” — submitted for journal publication at Atlantis  Press Natural Language Processing Research
+
+INTERESTS
+
+Computer Vision, Data Science, Business Intelligence, Cyber Security, Movies, Cricket
+
+
+
+REFERENCE
+
+Mohammad Arifuzzaman, PhD 
+Assistant Professor 
+Department of Electronics & Communication Engineering, East West University Email: arif@iict.buet.ac.bd, mazaman@ewubd.edu",Joar Sahara Bazar Road Dhaka1219 Bangladesh shaonsikderewugmailcom Githubshaon2221 LinkedInshaoncomputergeek Shaon Sikder SKILLS programming Python Pandas OpenCV Matplotlib Numpy Selenium BeautifulSoup Flask Docker Heroku SQL Aptitude Tableau Excel Jupyter Notebook Google Collab GCP AWS Github Linux os Statistics RegressionLinear Multiplelinear Logistic Random Forest classificationcnn KNN SVM Random Forest ClusteringK mean Deep Learningkerastensorflow experience ADSPL Tech Ltd India Artificial Intelligence Engineer may present Acme AI Ltd Dhaka Junior Data Scientist April may build small scale webapp cattle weight estimation deploy heroku dataset collect field work develop face recognition base attendance solution Acme AI Ltd Dhaka Management Trainee December March build fish disease detection dl model use Tensorflow validation accuracy deploy Heroku use demo get fund company applied computer vision base neural network model automation annotation reduced cost company significantly Aws sagemaker ground truth tool use Automated Google form dynamic invoice pdf email submitter there similar chrome extension cost 20month progress cattle weight estimation project use computer vision Prepared project report dashboard lead generation help management development idea solution solve it software problem learn new thing time time companys growth mine General ELectric Virtual Internship Data Engineer August September Discovered Data storytelle Run chart KPI Dashboard Working experience dataiku software postgresql EDUCATION East West University Dhaka BSc Information Communication Engineering May April Result cgpa conduct thesis NLP base project scrape text Bengali newspaper perform sentiment analysis active member Telecommunication club Robotics club PROJECTS Real Time Tweet Analysis US Election NLP perform survey analysis use tweetsdemocrat ahead republican first Democrat National Convention use twitter credential access twitter API collect tweet Tools use Python Pandas Matplotlib Seaborn NLTK Textblob COURSES Computer Vision Nanodegree Udacity progress Business Intelligence Analytics Macquarie University Coursera Excel Data Analysis Microsoft Edex SQL Data Science IBM Edex AWARDS Deans Scholarship SubmittedOngoing Research Shaon Sikder Md Al Imran Dr Mohammad Arifuzzaman RealTime Tweet Analysis United States Presidential Election submit journal publication Atlantis Press Natural Language Processing Research INTERESTS Computer Vision Data Science Business Intelligence Cyber Security Movies Cricket REFERENCE Mohammad Arifuzzaman phd Assistant Professor Department Electronics Communication Engineering East West University Email arifiictbuetacbd mazamanewubdedu,EDUCATION Junior West idea project Arifuzzaman Mohammad submit Time April INTERESTS RegressionLinear company conduct may Statistics webapp Intelligence build publication active attendance Google experience tweetsdemocrat Aws Processing Bengali GCP present heroku automation thesis analysis Jupyter solve dl Natural Microsoft SQL Working Business Learningkerastensorflow Dhaka work tool newspaper Cricket annotation chart postgresql Imran Presidential Deans management network Analytics Dhaka1219 Python vision similar States mean lead Department API email estimation AI mine Sikder dataset Docker form Macquarie General growth Shaon IBM Virtual SubmittedOngoing East Result Scholarship Atlantis phd REFERENCE model progress Flask republican Trainee dashboard ground Engineering Engineer thing Dashboard Scientist AWS validation Selenium United dynamic Tools arifiictbuetacbd Githubshaon2221 weight National solution accuracy survey Security Tableau cost there help Run first ClusteringK cgpa December demo classificationcnn Nanodegree University Movies Joar Science Tech Bazar detection fund storytelle collect ADSPL access shaonsikderewugmailcom report Telecommunication US Aptitude March KPI neural Vision Internship Electronics time COURSES Research Notebook text Udacity get ahead Forest Language Assistant Dr September Tensorflow Coursera Collab OpenCV reduced Bangladesh perform PROJECTS Communication Management August Md club field journal India Random Sahara scale BeautifulSoup Discovered May Tweet cattle use face base BSc Robotics credential Logistic computer Data Al Election Pandas tweet software sagemaker learn Real Excel AWARDS LinkedInshaoncomputergeek Numpy os Press Edex Deep truth Email pdf develop companys Acme Prepared SKILLS Information Convention recognition generation Github SVM Automated new Artificial member Analysis programming 20month Professor Computer small Heroku twitter sentiment Democrat Matplotlib Seaborn significantly ELectric Linux NLTK dataiku KNN RealTime applied Ltd submitter problem development Multiplelinear chrome deploy fish disease mazamanewubdedu scrape invoice Cyber Road extension NLP it Textblob,EDUCATION Junior West idea project Arifuzzaman Mohammad Time April INTERESTS RegressionLinear company conduct Intelligence publication attendance Google experience tweetsdemocrat Aws Processing Bengali GCP heroku automation thesis analysis Jupyter Natural Microsoft SQL Working Business Learningkerastensorflow Dhaka work tool newspaper Cricket annotation chart postgresql Imran Presidential management network Analytics Dhaka1219 Python vision States Department API email estimation AI mine Sikder Docker form Macquarie General growth Shaon IBM Virtual SubmittedOngoing East Result Scholarship Atlantis phd REFERENCE model progress Flask Trainee dashboard ground Engineering Engineer thing Dashboard Scientist AWS validation Selenium United Tools arifiictbuetacbd Githubshaon2221 weight National solution accuracy survey Security Tableau ClusteringK December demo classificationcnn Nanodegree University Joar Science Tech Bazar detection fund storytelle ADSPL access shaonsikderewugmailcom report Telecommunication US Aptitude March KPI neural Vision Internship Electronics time COURSES Research Notebook text Udacity Forest Language Assistant Dr September Tensorflow Coursera Collab Bangladesh perform PROJECTS Communication Management August Md club field journal India Random Sahara scale BeautifulSoup Tweet face base computer Data Al Election tweet software sagemaker Real Excel AWARDS LinkedInshaoncomputergeek Numpy Press Edex Deep truth Email pdf Acme SKILLS Information Convention recognition generation Github SVM Automated Artificial member Analysis programming 20month Professor Computer Heroku twitter sentiment Democrat Matplotlib Seaborn ELectric Linux NLTK KNN RealTime Ltd submitter problem development Multiplelinear chrome fish disease mazamanewubdedu scrape invoice Cyber Road extension Textblob,20month access accuracy acme active adspl ahead ai al analysis analytics annotation api applied april aptitude arifiictbuetacbd arifuzzaman artificial assistant atlantis attendance august automated automation awards aws bangladesh base bazar beautifulsoup bengali bsc build business cattle cgpa chart chrome classificationcnn club clusteringk collab collect communication company companys computer conduct convention cost coursera courses credential cricket cyber dashboard data dataiku dataset deans december deep demo democrat department deploy detection develop development dhaka dhaka1219 discovered disease dl docker dr dynamic east edex education election electric electronics email engineer engineering estimation excel experience extension face field first fish flask forest form fund gcp general generation get github githubshaon2221 google ground growth help heroku ibm idea imran india information intelligence interests internship invoice it joar journal junior jupyter knn kpi language lead learn learningkerastensorflow linkedinshaoncomputergeek linux logistic ltd macquarie management march matplotlib may mazamanewubdedu md mean member microsoft mine model mohammad movies multiplelinear nanodegree national natural network neural new newspaper nlp nltk notebook numpy opencv os pandas pdf perform phd postgresql prepared present presidential press problem processing professor programming progress project projects publication python random real realtime recognition reduced reference regressionlinear report republican research result road robotics run sagemaker sahara scale scholarship science scientist scrape seaborn security selenium sentiment september shaon shaonsikderewugmailcom significantly sikder similar skills small software solution solve sql states statistics storytelle submit submittedongoing submitter survey svm tableau tech telecommunication tensorflow text textblob there thesis thing time tool tools trainee truth tweet tweetsdemocrat twitter udacity united university us use validation virtual vision webapp weight west work working
+senior-data-analyst-resume-example.pdf,"ALONSO ROMERO
+Senior Data Analyst
+
+CONTACT
+alonsoromero@email.com (123) 456-7890 Brooklyn, NY LinkedIn
+EDUCATION
+B.S. Computer Science University of Pittsburgh
+September 2011 - April 2015 Pittsburgh, PA
+SKILLS
+Programming: Python (Scikit-learn), SQL
+Data Visualization: Tableau, Excel, Google Sheets, Matplotlib
+Modeling: Logistic regressions, linear regressions, decision trees
+Product Analytics: Google Analytics, A/B Testing & Experimentation
+
+WORK EXPERIENCE
+Senior Data Analyst
+Ross Industries February 2020 - current / New York, NY
+� Used Tableau and SQL to redefine and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
+� Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
+� Redesigned data model through iterations that improved predictions by 12%
+� Discovered new storage and tracking method of live data, and wrote and directed SOPs for analyst team
+Data Analyst
+Liberty Mutual Insurance January 2018 - February 2020 / New York, NY
+� Built data models and maps to generate meaningful insights from customer data, boosting successful sales efforts by 12%
+� Modeled targets likely to renew, and presented analysis to leadership, which led to a YoY revenue increase of $300K
+� Compiled, studied, and inferred large amounts of data, modeling information to drive auto policy pricing
+� Coached less experienced analysts, and mentored 2 interns annually in sophisticated modeling
+Data Analyst
+Chegg April 2015 - January 2018 / New York, NY
+� Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traffic
+� Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
+� Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
+� Worked with finance, sales, and operations to update and maintain manuals and SOPs
+
+",ALONSO ROMERO Senior Data Analyst contact alonsoromeroemailcom Brooklyn NY LinkedIn EDUCATION BS Computer Science University Pittsburgh September April Pittsburgh PA SKILLS Programming Python Scikitlearn SQL Data Visualization Tableau Excel Google Sheets Matplotlib Modeling Logistic regression linear regression decision tree Product Analytics Google Analytics AB Testing Experimentation EXPERIENCE Senior Data Analyst Ross Industries February current New York ny use Tableau SQL redefine track kpi surround marketing initiative supply recommendation boost landing page conversion rate Led team analyst brainstorm potential marketing sale improvement implement ab test generate client lead redesign datum model iteration improved prediction discover new storage tracking method live datum write direct sop analyst team Data Analyst Liberty Mutual Insurance January February New York ny build data model map generate meaningful insight customer datum boost successful sale effort model target likely renew present analysis leadership lead revenue increase K Compiled study infer large amount datum model information drive auto policy pricing coach less experienced analyst mentor intern annually sophisticated modeling Data Analyst Chegg April January New York NY devise kpi use SQL company website collaboration crossfunctional team achieve jump organic traffic Analyzed document report user survey result improve customer communication process collaborated analyst team oversee endtoend process surround customer return datum work finance sale operation update maintain manual sop,EDUCATION sophisticated Chegg result direct return write April sale company Mutual ROMERO build redefine iteration Google endtoend Analyst present jump effort recommendation New analysis surround data Compiled initiative drive SQL work target linear collaborated current storage experienced Analytics Python Industries lead annually Modeling implement Insurance insight increase operation revenue auto manual model rate Experimentation Ross improve February live York team Scikitlearn leadership intern survey study client pricing Tableau map test Product sop policy modeling University Science renew devise report successful Programming page NY Pittsburgh boost likely update supply contact prediction datum kpi amount regression website Visualization September tree organic infer Liberty LinkedIn conversion ALONSO improved track discover alonsoromeroemailcom collaboration use ab Senior Logistic Brooklyn Data Analyzed January oversee analyst process landing K decision Excel AB method user large communication traffic document less meaningful tracking BS SKILLS achieve new crossfunctional Computer PA Sheets Matplotlib brainstorm improvement mentor Led ny generate marketing finance potential customer EXPERIENCE maintain information Testing redesign coach,EDUCATION Chegg return April sale company Mutual ROMERO iteration Google endtoend Analyst jump effort recommendation analysis surround initiative drive SQL work target storage Analytics Python implement Insurance insight increase operation revenue auto model rate Experimentation Ross February live York team Scikitlearn leadership intern survey study client pricing Tableau map test Product sop policy modeling University Science renew devise report Programming page NY Pittsburgh supply contact prediction datum kpi amount regression website Visualization September tree organic infer Liberty LinkedIn conversion track discover alonsoromeroemailcom collaboration use ab Senior Logistic Brooklyn Data Analyzed January analyst process K decision Excel AB method user communication traffic document BS SKILLS Computer PA Matplotlib brainstorm improvement mentor Led ny marketing finance customer EXPERIENCE information Testing redesign coach,ab achieve alonso alonsoromeroemailcom amount analysis analyst analytics analyzed annually april auto boost brainstorm brooklyn bs build chegg client coach collaborated collaboration communication company compiled computer contact conversion crossfunctional current customer data datum decision devise direct discover document drive education effort endtoend excel experience experienced experimentation february finance generate google implement improve improved improvement increase industries infer information initiative insight insurance intern iteration january jump kpi landing large lead leadership led less liberty likely linear linkedin live logistic maintain manual map marketing matplotlib meaningful mentor method model modeling mutual new ny operation organic oversee pa page pittsburgh policy potential prediction present pricing process product programming python rate recommendation redefine redesign regression renew report result return revenue romero ross sale science scikitlearn senior september sheets skills sop sophisticated sql storage study successful supply surround survey tableau target team test testing track tracking traffic tree university update use user visualization website work write york
