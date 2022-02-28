@@ -31,7 +31,7 @@ def app():
     fig1.update_layout(title="Top Ranked Resumes", width=700, height=1100)
     st.write(fig1)
 
-    @st.cache
+    #@st.cache
     def convert_df(df):
         return df.to_csv().encode('utf-8')
 

@@ -362,17 +362,22 @@ def app():
 
     output_df['Rank'] = pd.DataFrame(
         [i for i in range(1, len(output_df['Scores'])+1)])
-    output_df.to_csv('shortlisted_list/ShortlistedResumes.csv',index=False)
 
     #################################Save Shortlisted Resumes in New Folder########################
-    N=10 # Number of resumes, we want to shortlist
-    output_df=output_df[:N]
+    
+    rows = st.slider("How Many Resume Do You Want To Shortlist?:",
+                        1, len(Ranked_resumes['Rank']), 1)
+
+    N=rows# Number of resumes, we want to shortlist
+    output_df=output_df[:rows]
     for inex,rows in output_df.iterrows():
         name=rows['Name']
         fileName=f'Data/Resumes/{name}'
         original=fileName
         target=f'Data/Shortlisted/{name}'
         shutil.copyfile(original, target)
+    
+    output_df.to_csv('shortlisted_list/ShortlistedResumes.csv',index=False)
 
         
 
@@ -384,7 +389,6 @@ def app():
     #         document = Document(source_stream)
     #         document.save(f'Data/Shortlisted/{name}')
     # ###################################### SCORE TABLE PLOT ####################################
-
     fig1 = go.Figure(data=[go.Table(
         header=dict(values=["Rank", "Name", "Scores"],
                     fill_color='#00416d',

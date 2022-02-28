@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 import os
+import glob
 
 def app():
     image = Image.open(r'D:\Naive-Resume-Matching-master\API\Images\logo.png')
@@ -46,4 +47,23 @@ def app():
                 
                 st.success("File Saved")
 
-    
+    if st.button('Reset All Data'):
+        mydir = 'D:\\Naive-Resume-Matching-master\\API\\Data\\JobDesc'
+        filelist = [f for f in os.listdir(mydir)]
+        #if f ends with .bak: change this to any file entension
+        for f in filelist:
+            os.remove(os.path.join(mydir, f))
+        
+        mydir_1 = 'D:\\Naive-Resume-Matching-master\\API\\Data\\Resumes'
+        filelist = [f for f in os.listdir(mydir_1)]
+        #if f ends with .bak: change this to any file entension
+        for f in filelist:
+            os.remove(os.path.join(mydir_1, f))
+
+        mydir_2 = 'D:\\Naive-Resume-Matching-master\\API\\Data\\Shortlisted'
+        filelist = [f for f in os.listdir(mydir_2)]
+        #if f ends with .bak: change this to any file entension
+        for f in filelist:
+            os.remove(os.path.join(mydir_2, f))
+        st.success('All Files Are Deleted...!!!')
+            
